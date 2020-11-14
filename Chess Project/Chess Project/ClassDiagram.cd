@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Board">
+    <Position X="0.75" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAAGAAQCU=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bishop">
+    <Position X="4" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Bishop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piece">
+    <Position X="6.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>EAAACAAIAAQgAAQEIBAGAAAAIRQAAAAAAAAAIGAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="King">
+    <Position X="7.25" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAABEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>King.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Knight">
+    <Position X="10.5" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Knight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pawn">
+    <Position X="13.75" Y="6" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAgEAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pawn.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Queen">
+    <Position X="0.5" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Queen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rook">
+    <Position X="18" Y="6.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

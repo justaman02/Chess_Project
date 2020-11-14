@@ -1,0 +1,8 @@
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\bin\Debug\chessGraphics.exe.config
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\bin\Debug\chessGraphics.exe
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\bin\Debug\chessGraphics.pdb
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\obj\Debug\chessGraphics.Form1.resources
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\obj\Debug\chessGraphics.Properties.Resources.resources
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\obj\Debug\chessGraphics.csproj.GenerateResource.cache
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\obj\Debug\chessGraphics.exe
+C:\nir_magshimim\secound_year\magshimim_cpp\semester_1\week7+8(chest)\chessGraphics\chessGraphics\obj\Debug\chessGraphics.pdb

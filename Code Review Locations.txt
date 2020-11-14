@@ -1,0 +1,4 @@
+CD Locations:
+
+1: Board.cpp in move() function
+2: Main.cpp 
